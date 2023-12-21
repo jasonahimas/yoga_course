@@ -34,7 +34,7 @@ Brief project description and purpose.
 
 7. **Documentation:**
     - Comprehensive documentation with setup instructions, API documentation.
-    
+
 ## ModelLink-(https://app.eraser.io/workspace/tbgbPjb7dv2sOA7UxynI?origin=share)
    
 
@@ -58,7 +58,7 @@ Provide step-by-step instructions on how to set up the project locally. Include 
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/your-project.git
+git clone https://github.com/jasonahimas/yoga_course
 
 # Navigate to the project directory
 cd your-project
