@@ -24,7 +24,7 @@ const EnrollmentForm = () => {
 
     try {
       const monthYear = `${selectedDate.getMonth() + 1}/${selectedDate.getFullYear()}`;
-      const response = await axios.post('http://localhost:8000/api/v1/users/enrollment', {
+      const response = await axios.post('http://https://yogacourse.vercel.app/api/v1/users/enrollment', {
         name,
         email,
         age,

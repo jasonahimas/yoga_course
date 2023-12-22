@@ -6,6 +6,7 @@ Brief project description and purpose.
 
 - [Features](#features)
 - [ModelLink](#modelLink)
+- [HostedLink](#hostedlink)
 - [Technologies Used](#technologies-used)
 - [Prerequisites](#prerequisites)
 - [Installation](#installation)
@@ -37,6 +38,7 @@ Brief project description and purpose.
 
 ## ModelLink-(https://app.eraser.io/workspace/tbgbPjb7dv2sOA7UxynI?origin=share)
    
+## Hosted on (https://yogacourse.vercel.app/api/v1/users/enrollment)
 
 ## Technologies Used
 
