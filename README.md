@@ -38,7 +38,7 @@ Brief project description and purpose.
 
 ## ModelLink-(https://app.eraser.io/workspace/tbgbPjb7dv2sOA7UxynI?origin=share)
    
-## Hosted on (https://yogacourse.vercel.app/api/v1/users/enrollment)
+## Hosted on (https://yogacourse.vercel.app/) 
 
 ## Technologies Used
 

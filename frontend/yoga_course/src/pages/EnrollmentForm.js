@@ -24,7 +24,7 @@ const EnrollmentForm = () => {
 
     try {
       const monthYear = `${selectedDate.getMonth() + 1}/${selectedDate.getFullYear()}`;
-      const response = await axios.post('/api/v1/users/enrollment', {
+      const response = await axios.post('https://yoga-course.onrender.com/api/v1/users/enrollment', {
         name,
         email,
         age,
